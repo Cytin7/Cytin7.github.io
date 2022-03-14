@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cytin7.github.io/posts/</loc>
-    <lastmod>2022-03-14T15:40:27+08:00</lastmod>
-    <priority>0</priority>
-  </url><url>
     <loc>https://cytin7.github.io/</loc>
     <lastmod>2022-03-14T15:40:27+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,6 +28,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://cytin7.github.io/posts/university/</loc>
+    <lastmod>2022-03-14T15:40:27+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/posts/</loc>
     <lastmod>2022-03-14T15:40:27+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
