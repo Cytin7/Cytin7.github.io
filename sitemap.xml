@@ -2,12 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cytin7.github.io/tags/cs225/</loc>
-    <lastmod>2022-03-14T18:39:13+08:00</lastmod>
+    <loc>https://cytin7.github.io/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cytin7.github.io/</loc>
+    <loc>https://cytin7.github.io/posts/university/phys214/lecture0-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/tags/phys214/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/tags/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/tags/zjui%E8%AF%BE%E7%A8%8B/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/posts/university/phys214/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/posts/university/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/posts/</loc>
+    <lastmod>2022-03-15T13:26:07+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://cytin7.github.io/tags/cs225/</loc>
     <lastmod>2022-03-14T18:39:13+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -17,27 +52,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cytin7.github.io/tags/</loc>
-    <lastmod>2022-03-14T18:39:13+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cytin7.github.io/tags/zjui%E8%AF%BE%E7%A8%8B/</loc>
-    <lastmod>2022-03-14T18:39:13+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://cytin7.github.io/posts/university/cs225/</loc>
-    <lastmod>2022-03-14T18:39:13+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cytin7.github.io/posts/university/</loc>
-    <lastmod>2022-03-14T18:39:13+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://cytin7.github.io/posts/</loc>
     <lastmod>2022-03-14T18:39:13+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

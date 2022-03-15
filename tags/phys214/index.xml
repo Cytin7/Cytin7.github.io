@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PHYS214 on Cytin的记忆储存空间</title>
+    <link>https://cytin7.github.io/tags/phys214/</link>
+    <description>Recent content in PHYS214 on Cytin的记忆储存空间</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 15 Mar 2022 13:26:07 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/tags/phys214/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture0 课程简介</title>
+      <link>https://cytin7.github.io/posts/university/phys214/lecture0-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/</link>
+      <pubDate>Tue, 15 Mar 2022 13:26:07 +0800</pubDate>
+      
+      <guid>https://cytin7.github.io/posts/university/phys214/lecture0-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/</guid>
+      <description>笔记内容基于ZJUI学院2022年春夏学期的PHYS 214课程。 课程代码：PHYS 214 课程名称：Quantum Physics 教授：陈文超 课程材料：http</description>
+    </item>
+    
+  </channel>
+</rss>
