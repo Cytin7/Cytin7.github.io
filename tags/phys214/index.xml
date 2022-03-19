@@ -6,7 +6,16 @@
     <description>Recent content in PHYS214 on Cytin的记忆储存空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 15 Mar 2022 14:55:47 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/tags/phys214/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 07:24:34 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/tags/phys214/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PHYS214 Lec2 双缝干涉</title>
+      <link>https://cytin7.github.io/posts/university/phys214/phys214-lec2/</link>
+      <pubDate>Sun, 20 Mar 2022 07:24:34 +0800</pubDate>
+      
+      <guid>https://cytin7.github.io/posts/university/phys214/phys214-lec2/</guid>
+      <description>相位叠加 对于振幅、频率、波速相同相位差为 $\phi$ 的两个正弦波 $y_1=A_0\cos(kx-\omega t)$ 和 $y_2=A_0\cos(kx-\omega t+\phi)$ ，其叠加后的波形为： $$ y=2A_0\cos\bigg(\frac\phi{2}\bigg)\cos\bigg (kx-\omega t+\frac{\phi}{2}\bigg) $$ 其振幅为 $2A_0\cos(\frac\phi{2})$ ，振动为 $\cos(kx-\omega t+\frac{\phi}{2})$ 。 强度变化 强度由 $I_0=A_0^2$ 变为 $I=4A_0^2\cos^2(\frac{\phi}{2})=4I_0</description>
+    </item>
+    
     <item>
       <title>PHYS 214 Lec1 波与波的叠加</title>
       <link>https://cytin7.github.io/posts/university/phys214/phys214-lec1/</link>
