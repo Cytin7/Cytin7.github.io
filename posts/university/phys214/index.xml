@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ZJUI课程 on Cytin的记忆储存空间</title>
-    <link>https://cytin7.github.io/tags/zjui%E8%AF%BE%E7%A8%8B/</link>
-    <description>Recent content in ZJUI课程 on Cytin的记忆储存空间</description>
+    <title>🌌PHYS 214课程笔记 on Cytin的记忆储存空间</title>
+    <link>https://cytin7.github.io/posts/university/phys214/</link>
+    <description>Recent content in 🌌PHYS 214课程笔记 on Cytin的记忆储存空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Mar 2022 07:24:34 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/tags/zjui%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Mar 2022 07:24:34 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/posts/university/phys214/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHYS214 Lec2 双缝干涉</title>
       <link>https://cytin7.github.io/posts/university/phys214/phys214-lec2/</link>
@@ -32,15 +32,6 @@
       
       <guid>https://cytin7.github.io/posts/university/phys214/phys214-lec0/</guid>
       <description>笔记内容基于ZJUI学院2022年春夏学期的PHYS 214课程。 课程代码：PHYS 214 课程名称：Quantum Physics 教授：陈文超 课程材料：http</description>
-    </item>
-    
-    <item>
-      <title>CS 225 课程简介</title>
-      <link>https://cytin7.github.io/posts/university/cs225/lecture0-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/</link>
-      <pubDate>Mon, 14 Mar 2022 18:39:13 +0800</pubDate>
-      
-      <guid>https://cytin7.github.io/posts/university/cs225/lecture0-%E8%AF%BE%E7%A8%8B%E7%AE%80%E4%BB%8B/</guid>
-      <description>笔记内容基于ZJUI学院2022年春夏学期的CS 225课程。 课程代码：CS 225 课程名称：Data Structures 教授：Klaus-Dieter Schewe 教材：本课程</description>
     </item>
     
   </channel>

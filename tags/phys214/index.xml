@@ -13,7 +13,7 @@
       <pubDate>Sun, 20 Mar 2022 07:24:34 +0800</pubDate>
       
       <guid>https://cytin7.github.io/posts/university/phys214/phys214-lec2/</guid>
-      <description>相位叠加 对于振幅、频率、波速相同相位差为 $\phi$ 的两个正弦波 $y_1=A_0\cos(kx-\omega t)$ 和 $y_2=A_0\cos(kx-\omega t+\phi)$ ，其叠加后的波形为： $$ y=2A_0\cos\bigg(\frac\phi{2}\bigg)\cos\bigg (kx-\omega t+\frac{\phi}{2}\bigg) $$ 其振幅为 $2A_0\cos(\frac\phi{2})$ ，振动为 $\cos(kx-\omega t+\frac{\phi}{2})$ 。 强度变化 强度由 $I_0=A_0^2$ 变为 $I=4A_0^2\cos^2(\frac{\phi}{2})=4I_0</description>
+      <description>相位叠加 对于振幅、频率、波速相同相位差为 $\phi$ 的两个正弦波 $y_1=A_0\cos\left(kx-\omega t\right)$ 和 $y_2=A_0\cos\left(kx-\omega t+\phi\right)$ ，其叠加后的波形为： $$ y=2A_0\cos\left(\frac\phi{2}\right)\cos\left(kx-\omega t+\frac{\phi}{2}\right) $$ 其振幅为 $2A_0\cos\left(\frac\phi{2}\right)$ ，振动为 $\cos\left(kx-\omega t+\frac{\phi}{2}\right)$ 。 强度变化 强度由 $I_0=A_0^2$ 变为 $I=4A_0^2\cos^2\left(\frac{\phi}{2}\right)=4I_0 \cos^2\left(\frac{\phi}{2}\right)$</description>
     </item>
     
     <item>
