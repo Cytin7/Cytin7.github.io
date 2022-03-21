@@ -6,9 +6,18 @@
     <description>Recent content in 🌌PHYS 214课程笔记 on Cytin的记忆储存空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 20 Mar 2022 07:24:34 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/posts/university/phys214/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 18:38:03 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/posts/university/phys214/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>PHYS214 Lec2 双缝干涉</title>
+      <title>Lecture3 向量图与多缝干涉</title>
+      <link>https://cytin7.github.io/posts/university/phys214/phys214-lec3/</link>
+      <pubDate>Mon, 21 Mar 2022 18:38:03 +0800</pubDate>
+      
+      <guid>https://cytin7.github.io/posts/university/phys214/phys214-lec3/</guid>
+      <description>向量图 理论基础 依据欧拉公式 $\mathrm{e}^{\mathrm{i}\theta}=\cos\left(\theta\right)+\mathrm{i}\sin\left(\theta\right)$ ，可将谐波函数 $y\left(x,t\right)=A\cos\left(kx-\omega t\right)$ 看作为旋转向量 $\mathbf{r}=A\mathrm{e}^{\left(kx-\omega t\right)\mathrm{i}}$ 的实部。 等频等速波形叠加 因此对于谐波 $f_1\left(x,t\right)=A_1\cos\left(kx-\omega t\right)$ 与 $f_2\left(x,t\right)=A_2\cos\left(kx-\omega t+\phi\right)$ 的叠加波，可以表示为旋转向量 $\displaystyle{\mathbf{r}=A\mathrm{e}^{\left(kx-\omega</description>
+    </item>
+    
+    <item>
+      <title>Lecture2 双缝干涉</title>
       <link>https://cytin7.github.io/posts/university/phys214/phys214-lec2/</link>
       <pubDate>Sun, 20 Mar 2022 07:24:34 +0800</pubDate>
       
@@ -17,7 +26,7 @@
     </item>
     
     <item>
-      <title>PHYS 214 Lec1 波与波的叠加</title>
+      <title>Lecture1 波与波的叠加</title>
       <link>https://cytin7.github.io/posts/university/phys214/phys214-lec1/</link>
       <pubDate>Tue, 15 Mar 2022 14:55:47 +0800</pubDate>
       
