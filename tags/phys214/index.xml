@@ -6,7 +6,16 @@
     <description>Recent content in PHYS214 on Cytin的记忆储存空间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 22 Mar 2022 16:28:19 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/tags/phys214/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 17:06:43 +0800</lastBuildDate><atom:link href="https://cytin7.github.io/tags/phys214/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture8 波粒二象性</title>
+      <link>https://cytin7.github.io/posts/university/phys214/phys214-lec8/</link>
+      <pubDate>Tue, 22 Mar 2022 17:06:43 +0800</pubDate>
+      
+      <guid>https://cytin7.github.io/posts/university/phys214/phys214-lec8/</guid>
+      <description>回顾 在 Lecture7 中，介绍了光的粒子性，并用以下两个公式将粒子性的能量、动量与波动性的频率、波长之间的关系。 $$ E=hf $$ $$ p=\frac{h}{\lambda} $$ 粒子的波动性 1924年，德布罗</description>
+    </item>
+    
     <item>
       <title>Lecture7 光的粒子性</title>
       <link>https://cytin7.github.io/posts/university/phys214/phys214-lec7/</link>
